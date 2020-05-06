@@ -1,9 +1,10 @@
 {
     "lang": "en,ru",
     "fileExtensions": [
-      ".md"
+        ".md"
     ],
     "dictionary": [
-      "EcmaScript"
+        "EcmaScript",
+        "отрисов(ки|ывать|ывается|ываю)"
     ]
-  }
+}
