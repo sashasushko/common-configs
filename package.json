@@ -1,6 +1,6 @@
 {
   "name": "common-configs",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Repo with common configs fot tools",
   "main": "index.js",
   "scripts": {
